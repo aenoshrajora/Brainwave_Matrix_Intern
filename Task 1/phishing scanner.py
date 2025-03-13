@@ -17,7 +17,7 @@ class PhishingScanner:
     """Main application class for scanning URLs for phishing indicators."""
     
     # API key for Google Safe Browsing API - should be moved to environment variables in production
-    API_KEY = "AIzaSyArwPgVli7kOg9m7hddcB1Yd3g3wtr6M7w"
+    API_KEY = "API KEY"
     
     def __init__(self, root):
         """Initialize the application UI and components."""
